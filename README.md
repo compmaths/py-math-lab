@@ -1,6 +1,6 @@
 # py-practicas-mat
 
-Repositorio para albergar un libro de prácticas para la docencia de matemáticas en Python. [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/compmaths/py-practicas-mat/HEAD)
+Repositorio para albergar un libro de prácticas para la docencia de matemáticas en Python. [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/compmaths/py-math-lab/HEAD)
 
 Repository to host code for interactive website oriented to teach math with Python. [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/compmaths/py-math-lab/HEAD)
 
